@@ -9,7 +9,7 @@
 include $(TOPDIR)/rules.mk
 include $(INCLUDE_DIR)/kernel.mk
 
-PKG_NAME:=wg-quick
+PKG_NAME:=wireguard-tools
 
 PKG_VERSION:=1.0.20210914
 PKG_RELEASE:=2

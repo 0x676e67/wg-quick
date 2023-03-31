@@ -1,5 +1,5 @@
 # wg-quick
-WireGuard wg-quikc for OpenWrt
+WireGuard wg-quick for OpenWrt
 
 ### Compile
 
